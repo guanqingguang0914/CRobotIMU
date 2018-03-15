@@ -1,0 +1,1 @@
+include ':app', ':crobot_serialport_module'
